@@ -1,0 +1,6 @@
+@InvalidResult_HostAddress = http://localhost:5125
+
+GET {{InvalidResult_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
